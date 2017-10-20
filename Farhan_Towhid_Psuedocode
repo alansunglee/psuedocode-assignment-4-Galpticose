@@ -1,0 +1,42 @@
+Farhan Towhid - 18 October, 2017 3rd Period
+Psuedocode: Speed
+We will be creating code to show the instructions for a game that is played with cards.
+
+This game only allows two people to play
+
+Get a deck of cards consisting of 52 cards
+
+Divide the cards into 2 piles consisting 1 card each, and 2 piles consisting of 5 cards each, and 2 piles of 20 cards each. 
+
+Place each pile consisting of 1 card next to each other in the center of the table face down.
+
+Place the 2 piles consisting of 5 cards on either side of the middle 2 piles face down. Make sure these piles are symetrical.
+
+Remove 5 cards from each pile of 20 and hand them to each player face down.
+
+Place each pile of 15 cards below either one of the piles of 5 cards in the center of the table face down.
+	1 of each of these piles belong to 1 of the players.
+
+Both players must flip the card in the center of the table over at the same time.
+
+Each player can now look at their hand of 5 cards.
+
+If a player has any cards that can go in either ascending or descending order based on either of the middle piles;
+	Said player will place all of the cards that they can on top of the middle pile that their card(s) correspond to.
+		If the player has placed any cards;
+		Then the player will get a new card from their pile of 15 cards.
+
+Else they must wait for an opportunity where they can perfom said action based on any new cards that the opponent places on the middle pile
+
+If both players are unable to place any cards based on the middle piles;
+
+Then they will draw a card from the "side" piles and will place them face up on top of the middle piles at the same time
+
+The players will continue performing said actions until one of the players runs out of cards to play.
+
+
+
+
+
+
+
