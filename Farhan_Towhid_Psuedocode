@@ -2,9 +2,9 @@ Farhan Towhid - 18 October, 2017 3rd Period
 Psuedocode: Speed
 We will be creating code to show the instructions for a game that is played with cards.
 
-This game only allows two people to play
+This game only allows two people to play.
 
-Get a deck of cards consisting of 52 cards
+Get a deck of cards consisting of 52 cards.
 
 Divide the cards into 2 piles consisting 1 card each, and 2 piles consisting of 5 cards each, and 2 piles of 20 cards each. 
 
